@@ -1,0 +1,68 @@
+[
+  {
+    "teamId": "HV-MOCDP1CJ-DCBC1A",
+    "teamName": "Test Team Alpha",
+    "leaderName": "John Doe",
+    "members": [],
+    "problemStatement": "Smart city solution for better living",
+    "projectTitle": "AI Smart City Platform",
+    "liveUrl": "https://google.com",
+    "techStack": "",
+    "registeredAt": "2026-04-24T03:56:23.443Z"
+  },
+  {
+    "teamId": "HV-MOCDSHUR-4161CB",
+    "teamName": "Test Team Beta",
+    "leaderName": "Jane Smith",
+    "members": [],
+    "problemStatement": "Urban traffic optimization",
+    "projectTitle": "TrafficAI System",
+    "liveUrl": "https://google.com",
+    "techStack": "",
+    "registeredAt": "2026-04-24T03:59:04.803Z"
+  },
+  {
+    "teamId": "HV-MOCFOA34-2C6875",
+    "teamName": "daxifu",
+    "leaderName": "shrihari",
+    "members": [],
+    "problemStatement": "smart and clean city",
+    "projectTitle": "Ai powered public grevience and resolution platform",
+    "liveUrl": "https://reliable-raindrop-28bf72.netlify.app/",
+    "techStack": "python",
+    "registeredAt": "2026-04-24T04:51:47.344Z"
+  },
+  {
+    "teamId": "HV-MOCGWSTI-38E91C",
+    "teamName": "nexus",
+    "leaderName": "siddu",
+    "members": [],
+    "problemStatement": "smart and clean city",
+    "projectTitle": "AI powered public greveince system",
+    "liveUrl": "https://reliable-raindrop-28bf72.netlify.app/",
+    "techStack": "python",
+    "registeredAt": "2026-04-24T05:26:24.487Z"
+  },
+  {
+    "teamId": "HV-MOCHFNAN-65D016",
+    "teamName": "vibie",
+    "leaderName": "yashas",
+    "members": [],
+    "problemStatement": "Education and future planning for students",
+    "projectTitle": "Help to decide which path to choose after 12th std",
+    "liveUrl": "https://pathai1.netlify.app/",
+    "techStack": "",
+    "registeredAt": "2026-04-24T05:41:03.791Z"
+  },
+  {
+    "teamId": "HV-MOCHPN4H-A01F8C",
+    "teamName": "baers",
+    "leaderName": "yashas",
+    "members": [],
+    "problemStatement": "environment",
+    "projectTitle": "health hazard",
+    "liveUrl": "https://trashcon.in/",
+    "techStack": "",
+    "registeredAt": "2026-04-24T05:48:50.129Z"
+  }
+]

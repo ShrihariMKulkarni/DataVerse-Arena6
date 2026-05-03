@@ -1,0 +1,35 @@
+{
+  "HV-MOFHLSBI-BB0787": {
+    "problemIdea": 7,
+    "functionality": 11,
+    "uiUx": 6,
+    "innovation": 4,
+    "impact": 3,
+    "presentation": 3,
+    "total": 34,
+    "scoredBy": "s@gmail.com",
+    "scoredAt": "2026-04-26T15:44:16.298Z"
+  },
+  "HV-MOFI0A6U-738158": {
+    "problemIdea": 7,
+    "functionality": 12,
+    "uiUx": 7,
+    "innovation": 6,
+    "impact": 4,
+    "presentation": 4,
+    "total": 40,
+    "scoredBy": "1@gma.com",
+    "scoredAt": "2026-04-26T08:24:11.829Z"
+  },
+  "HV-MOFI42QS-4102CE": {
+    "problemIdea": 4,
+    "functionality": 7,
+    "uiUx": 5,
+    "innovation": 3,
+    "impact": 3,
+    "presentation": 3,
+    "total": 25,
+    "scoredBy": "1@gma.com",
+    "scoredAt": "2026-04-26T08:24:23.628Z"
+  }
+}

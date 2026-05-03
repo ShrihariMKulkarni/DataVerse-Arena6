@@ -1,0 +1,46 @@
+{
+  "HV-MOCDSHUR-4161CB": {
+    "problemIdea": 6,
+    "functionality": 8,
+    "uiUx": 5,
+    "innovation": 4,
+    "impact": 3,
+    "presentation": 3,
+    "total": 29,
+    "scoredBy": "judge@gmail.com",
+    "scoredAt": "2026-04-24T04:55:48.387Z"
+  },
+  "HV-MOCGWSTI-38E91C": {
+    "problemIdea": 4,
+    "functionality": 10,
+    "uiUx": 7,
+    "innovation": 6,
+    "impact": 4,
+    "presentation": 4,
+    "total": 35,
+    "scoredBy": "judge@gmail.com",
+    "scoredAt": "2026-04-24T05:27:37.700Z"
+  },
+  "HV-MOCDP1CJ-DCBC1A": {
+    "problemIdea": 7,
+    "functionality": 9,
+    "uiUx": 5,
+    "innovation": 5,
+    "impact": 3,
+    "presentation": 3,
+    "total": 32,
+    "scoredBy": "judge@gmail.com",
+    "scoredAt": "2026-04-24T05:45:15.557Z"
+  },
+  "HV-MOCFOA34-2C6875": {
+    "problemIdea": 7,
+    "functionality": 10,
+    "uiUx": 4,
+    "innovation": 4,
+    "impact": 3,
+    "presentation": 4,
+    "total": 32,
+    "scoredBy": "judge@gmail.com",
+    "scoredAt": "2026-04-24T06:04:20.278Z"
+  }
+}

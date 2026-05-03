@@ -1,0 +1,248 @@
+{
+  "HV-MOCDSHUR-4161CB": {
+    "team_name": "Test Team Beta",
+    "project_title": "TrafficAI System",
+    "detected_stack": "Unknown (standard web stack)",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is accessible and structurally sound."
+      },
+      "ui_ux": {
+        "score": 7,
+        "reason": "Good UI elements detected."
+      },
+      "innovation": {
+        "score": 6,
+        "reason": "Follows standard hackathon patterns."
+      },
+      "impact": {
+        "score": 7,
+        "reason": "Addresses a valid problem domain."
+      },
+      "technical_architecture": {
+        "score": 8,
+        "reason": "Stack detected: Unknown (standard web stack)."
+      }
+    },
+    "verdict": "(AUTO-FALLBACK SCAN) The project TrafficAI System appears to be a functional web application. Tech stack detected includes Unknown (standard web stack).",
+    "top_strengths": [
+      "Deployed and accessible",
+      "Recognizable tech stack"
+    ],
+    "key_improvements": [
+      "API integration not fully testable via automated fallback",
+      "Add more detailed descriptions"
+    ],
+    "flags": [
+      "Fallback scanner used (Gemini API unavailable or invalid)"
+    ],
+    "total_ai_score": 36,
+    "analyzedAt": "2026-04-24T05:29:18.176Z"
+  },
+  "HV-MOCGWSTI-38E91C": {
+    "team_name": "nexus",
+    "project_title": "AI powered public greveince system",
+    "detected_stack": "Unknown (standard web stack)",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is accessible and structurally sound."
+      },
+      "ui_ux": {
+        "score": 4,
+        "reason": "Basic UI."
+      },
+      "innovation": {
+        "score": 6,
+        "reason": "Follows standard hackathon patterns."
+      },
+      "impact": {
+        "score": 7,
+        "reason": "Addresses a valid problem domain."
+      },
+      "technical_architecture": {
+        "score": 8,
+        "reason": "Stack detected: Unknown (standard web stack)."
+      }
+    },
+    "verdict": "(AUTO-FALLBACK SCAN) The project AI powered public greveince system appears to be a functional web application. Tech stack detected includes Unknown (standard web stack).",
+    "top_strengths": [
+      "Deployed and accessible",
+      "Recognizable tech stack"
+    ],
+    "key_improvements": [
+      "API integration not fully testable via automated fallback",
+      "Add more detailed descriptions"
+    ],
+    "flags": [
+      "Fallback scanner used (Gemini API unavailable or invalid)"
+    ],
+    "total_ai_score": 33,
+    "analyzedAt": "2026-04-24T05:28:53.759Z"
+  },
+  "HV-MOCFOA34-2C6875": {
+    "team_name": "daxifu",
+    "project_title": "Ai powered public grevience and resolution platform",
+    "detected_stack": "Unknown (standard web stack)",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is accessible and structurally sound."
+      },
+      "ui_ux": {
+        "score": 4,
+        "reason": "Basic UI."
+      },
+      "innovation": {
+        "score": 6,
+        "reason": "Follows standard hackathon patterns."
+      },
+      "impact": {
+        "score": 7,
+        "reason": "Addresses a valid problem domain."
+      },
+      "technical_architecture": {
+        "score": 8,
+        "reason": "Stack detected: Unknown (standard web stack)."
+      }
+    },
+    "verdict": "(AUTO-FALLBACK SCAN) The project Ai powered public grevience and resolution platform appears to be a functional web application. Tech stack detected includes Unknown (standard web stack).",
+    "top_strengths": [
+      "Deployed and accessible",
+      "Recognizable tech stack"
+    ],
+    "key_improvements": [
+      "API integration not fully testable via automated fallback",
+      "Add more detailed descriptions"
+    ],
+    "flags": [
+      "Fallback scanner used (Gemini API unavailable or invalid)"
+    ],
+    "total_ai_score": 33,
+    "analyzedAt": "2026-04-24T06:04:03.640Z"
+  },
+  "HV-MOCDP1CJ-DCBC1A": {
+    "team_name": "Test Team Alpha",
+    "project_title": "AI Smart City Platform",
+    "detected_stack": "Google AI",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is accessible and structurally sound."
+      },
+      "ui_ux": {
+        "score": 7,
+        "reason": "Good UI elements detected."
+      },
+      "innovation": {
+        "score": 6,
+        "reason": "Follows standard hackathon patterns."
+      },
+      "impact": {
+        "score": 7,
+        "reason": "Addresses a valid problem domain."
+      },
+      "technical_architecture": {
+        "score": 5,
+        "reason": "Stack detected: Google AI."
+      }
+    },
+    "verdict": "(AUTO-FALLBACK SCAN) The project AI Smart City Platform appears to be a functional web application. Tech stack detected includes Google AI.",
+    "top_strengths": [
+      "Deployed and accessible",
+      "Recognizable tech stack"
+    ],
+    "key_improvements": [
+      "API integration not fully testable via automated fallback",
+      "Add more detailed descriptions"
+    ],
+    "flags": [
+      "Fallback scanner used (Gemini API unavailable or invalid)"
+    ],
+    "total_ai_score": 33,
+    "analyzedAt": "2026-04-24T05:29:11.844Z"
+  },
+  "HV-MOCHFNAN-65D016": {
+    "team_name": "vibie",
+    "project_title": "Help to decide which path to choose after 12th std",
+    "detected_stack": "Google AI",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is accessible and structurally sound."
+      },
+      "ui_ux": {
+        "score": 4,
+        "reason": "Basic UI."
+      },
+      "innovation": {
+        "score": 6,
+        "reason": "Follows standard hackathon patterns."
+      },
+      "impact": {
+        "score": 7,
+        "reason": "Addresses a valid problem domain."
+      },
+      "technical_architecture": {
+        "score": 5,
+        "reason": "Stack detected: Google AI."
+      }
+    },
+    "verdict": "(AUTO-FALLBACK SCAN) The project Help to decide which path to choose after 12th std appears to be a functional web application. Tech stack detected includes Google AI.",
+    "top_strengths": [
+      "Deployed and accessible",
+      "Recognizable tech stack"
+    ],
+    "key_improvements": [
+      "API integration not fully testable via automated fallback",
+      "Add more detailed descriptions"
+    ],
+    "flags": [
+      "Fallback scanner used (Gemini API unavailable or invalid)"
+    ],
+    "total_ai_score": 30,
+    "analyzedAt": "2026-04-24T06:03:59.020Z"
+  },
+  "HV-MOCHPN4H-A01F8C": {
+    "team_name": "baers",
+    "project_title": "health hazard",
+    "detected_stack": "Tailwind CSS, Material UI",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is accessible and structurally sound."
+      },
+      "ui_ux": {
+        "score": 7,
+        "reason": "Good UI elements detected."
+      },
+      "innovation": {
+        "score": 6,
+        "reason": "Follows standard hackathon patterns."
+      },
+      "impact": {
+        "score": 7,
+        "reason": "Addresses a valid problem domain."
+      },
+      "technical_architecture": {
+        "score": 8,
+        "reason": "Stack detected: Tailwind CSS, Material UI."
+      }
+    },
+    "verdict": "(AUTO-FALLBACK SCAN) The project health hazard appears to be a functional web application. Tech stack detected includes Tailwind CSS, Material UI.",
+    "top_strengths": [
+      "Deployed and accessible",
+      "Recognizable tech stack"
+    ],
+    "key_improvements": [
+      "API integration not fully testable via automated fallback",
+      "Add more detailed descriptions"
+    ],
+    "flags": [
+      "Fallback scanner used (Gemini API unavailable or invalid)"
+    ],
+    "total_ai_score": 36,
+    "analyzedAt": "2026-04-24T06:04:01.784Z"
+  }
+}

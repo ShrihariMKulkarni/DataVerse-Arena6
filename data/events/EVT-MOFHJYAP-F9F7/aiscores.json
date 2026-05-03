@@ -1,0 +1,120 @@
+{
+  "HV-MOFHLSBI-BB0787": {
+    "team_name": "nexus",
+    "project_title": "Ai powered public greveince system",
+    "detected_stack": "Standard web stack",
+    "scores": {
+      "functionality": {
+        "score": 8,
+        "reason": "Project is deployed and accessible with substantial content."
+      },
+      "ui_ux": {
+        "score": 6,
+        "reason": "Basic visual layout."
+      },
+      "innovation": {
+        "score": 8,
+        "reason": "AI/ML integration detected. Real-time features implemented. Built around \"SiliconSahaaya | AI-Powered Public Grievance Platform\"."
+      },
+      "impact": {
+        "score": 5,
+        "reason": "Project scope demonstrates practical application potential."
+      },
+      "technical_architecture": {
+        "score": 6,
+        "reason": "Data visualization components detected. AI integration adds technical depth."
+      }
+    },
+    "total_ai_score": 33,
+    "verdict": "The project \"Ai powered public greveince system\" demonstrates solid technical execution using Standard web stack. The application is fully functional and well-deployed. The approach shows notable innovation.",
+    "top_strengths": [
+      "Successfully deployed and publicly accessible",
+      "AI/ML capabilities integrated into the project",
+      "Data visualization enhances user understanding"
+    ],
+    "key_improvements": [
+      "Add user authentication to enhance functionality",
+      "Include images and visual elements to improve UI polish",
+      "Consider expanding the tech stack for greater technical depth"
+    ],
+    "flags": [],
+    "analyzedAt": "2026-04-26T15:46:01.350Z"
+  },
+  "HV-MOFI0A6U-738158": {
+    "team_name": "nexusdfd",
+    "project_title": "trashcon",
+    "detected_stack": "Tailwind CSS, Material UI",
+    "scores": {
+      "functionality": {
+        "score": 10,
+        "reason": "Project is deployed and accessible with substantial content. Interactive forms detected. Authentication flow present."
+      },
+      "ui_ux": {
+        "score": 10,
+        "reason": "Rich visual elements with multiple images. Modern CSS framework detected. Well-structured content hierarchy."
+      },
+      "innovation": {
+        "score": 5,
+        "reason": "Standard hackathon project approach. Built around \"Trashcon\"."
+      },
+      "impact": {
+        "score": 8,
+        "reason": "Project addresses a meaningful real-world domain. User-facing application with interactive functionality."
+      },
+      "technical_architecture": {
+        "score": 8,
+        "reason": "Stack: Tailwind CSS, Material UI. Authentication system implemented. Form handling present. Data visualization components detected."
+      }
+    },
+    "total_ai_score": 41,
+    "verdict": "The project \"trashcon\" demonstrates strong technical execution using Tailwind CSS, Material UI. The application is fully functional and well-deployed. The concept follows standard hackathon patterns with room for creative differentiation.",
+    "top_strengths": [
+      "Successfully deployed and publicly accessible",
+      "User authentication system implemented",
+      "Rich visual presentation with multimedia elements"
+    ],
+    "key_improvements": [],
+    "flags": [],
+    "analyzedAt": "2026-04-26T15:24:54.241Z"
+  },
+  "HV-MOFI42QS-4102CE": {
+    "team_name": "vibie",
+    "project_title": "ai powered launchpadpro",
+    "detected_stack": "Standard web stack",
+    "scores": {
+      "functionality": {
+        "score": 9,
+        "reason": "Project is deployed and accessible with substantial content. Interactive forms detected. Authentication flow present."
+      },
+      "ui_ux": {
+        "score": 7,
+        "reason": "Basic visual layout. Well-structured content hierarchy."
+      },
+      "innovation": {
+        "score": 5,
+        "reason": "Standard hackathon project approach. Built around \"LaunchPad Pro — Digital Product Strategist\"."
+      },
+      "impact": {
+        "score": 8,
+        "reason": "Project addresses a meaningful real-world domain. User-facing application with interactive functionality."
+      },
+      "technical_architecture": {
+        "score": 7,
+        "reason": "Authentication system implemented. Form handling present. Data visualization components detected."
+      }
+    },
+    "total_ai_score": 36,
+    "verdict": "The project \"ai powered launchpadpro\" demonstrates strong technical execution using Standard web stack. The application is fully functional and well-deployed. The concept follows standard hackathon patterns with room for creative differentiation.",
+    "top_strengths": [
+      "Successfully deployed and publicly accessible",
+      "User authentication system implemented",
+      "Data visualization enhances user understanding"
+    ],
+    "key_improvements": [
+      "Include images and visual elements to improve UI polish",
+      "Consider expanding the tech stack for greater technical depth"
+    ],
+    "flags": [],
+    "analyzedAt": "2026-04-26T08:23:31.499Z"
+  }
+}
